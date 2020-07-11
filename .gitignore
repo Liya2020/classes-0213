@@ -1,0 +1,5 @@
+# Project exclude paths
+/hive-0213/target/
+/scala/target/
+/spark/target/
+/summer-framework/target/

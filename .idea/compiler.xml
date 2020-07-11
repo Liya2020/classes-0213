@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jianfa0213" />
+        <module name="spark" />
+        <module name="hive-0213" />
+        <module name="summer-framework" />
+        <module name="scala" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hive-0213" target="1.8" />
+      <module name="jianfa0213" target="1.8" />
+      <module name="scala" target="1.8" />
+      <module name="spark" target="1.8" />
+      <module name="Spark" target="1.5" />
+      <module name="summer-framework" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

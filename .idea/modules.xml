@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classes-0213.iml" filepath="$PROJECT_DIR$/classes-0213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive-0213/hive-0213.iml" filepath="$PROJECT_DIR$/hive-0213/hive-0213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jianfa0213/jianfa0213.iml" filepath="$PROJECT_DIR$/jianfa0213/jianfa0213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/scala.iml" filepath="$PROJECT_DIR$/scala/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark/spark.iml" filepath="$PROJECT_DIR$/spark/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-framework/summer-framework.iml" filepath="$PROJECT_DIR$/summer-framework/summer-framework.iml" />
+    </modules>
+  </component>
+</project>
